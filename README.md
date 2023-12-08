@@ -30,7 +30,7 @@ Python and Jupyter Notebook for data analysis
 14. Predicted the values of dependent variable for given independent varirbales
 15. Found the mean abolute error, mean squared error and R-square value to find the how the model performance is.
 16. Changed the independent variables to get the better performance of the model.  
-## Key Isihts to be found 
+## Key Insights to be found 
 1. Number of smoking and non smoking customers
 2. Number male and female smokers
 3. Which age group has more smokers
